@@ -1,0 +1,83 @@
+<style>
+
+.innerjen3 b, bold {
+color:#d68121;
+font-weight:bold;
+font-size:14px;
+}
+
+.innerjen3 i, italic {
+color:#d68121;
+font-style:italic;
+font-size:14px;
+}
+
+.outerjen3 {
+margin:auto;height:auto;
+width:350px;
+background-color: #fcfcfc;
+border:1px solid #ffd9a9;
+padding:35px 20px 30px 20px;
+}
+
+.innerjen3 {
+margin:40px 30px 30px 30px;
+background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(255,232,203,1) 50%, rgba(255,255,255,1) 100%);
+border:1px solid #ffd9a9;
+font-size:12px;
+text-transform:lowercase;
+padding:20px;
+border-radius: 10px;
+text-align:justify;
+max-height:350px;
+overflow:hidden;
+transition: 2s ease;
+}
+
+.innerjen3:hover {
+margin:40px 30px 30px 30px;
+background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(255,232,203,1) 50%, rgba(255,255,255,1) 100%);
+border:1px solid #ffd9a9;
+font-size:12px;
+text-transform:lowercase;
+padding:20px;
+border-radius: 10px;
+text-align:justify;
+max-height:1300px;
+}
+
+.tagjen3 {
+position:absolute;
+z-index:1;
+margin-left:127px;
+margin-top:-34px;
+text-align:center;
+font-size: 15px;
+letter-spacing: 1px;
+text-transform: uppercase;
+font-family:poppins;
+color:#d68121;
+}
+
+.tagjen4 {
+z-index:2;
+text-align:center;
+font-size: 42px;
+font-family:poppins;
+padding-bottom:20px;
+font-family: 'Lobster', cursive;
+color:#ffd9a9;
+padding-top:10px;
+}
+
+.imggjen2 {
+width:230px;
+border-radius:10px;
+border:1px solid #ffd9a9;
+image-rendering: crisp-edges;
+padding:30px;
+background-color:#ffe8cb;
+margin-top:10px;
+} 
+
+</style>
